@@ -1,0 +1,3 @@
+[submodule "angelos"]
+	path = angelos
+	url = https://github.com/kristoffer-paulsson/angelos
